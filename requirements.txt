@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+cryptography
+pydantic
+python-jose
+sqlalchemy
+bcrypt==4.0.1
+passlib
+python-multipart
+httpx
+starlette
+numpy
+pandas
