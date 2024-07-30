@@ -10,7 +10,7 @@ from route.auth import Get_current_user
 from io import StringIO
 import csv
 
-route = APIRouter(prefix='/test', tags=['test'])
+route = APIRouter(prefix='/expense', tags=['expense'])
 
 def Get_db():
     db = sessionLocal()
