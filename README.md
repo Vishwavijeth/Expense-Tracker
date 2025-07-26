@@ -26,7 +26,6 @@ The Daily expense sharing application helps user track and share thier daily exp
 
 ## Models
 
-### User Model
   User
   ```bash
 class User(base):
